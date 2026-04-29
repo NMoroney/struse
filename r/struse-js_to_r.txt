@@ -1,0 +1,3 @@
+Read the contents of struse.js and create a similar version using the standard R programming language.
+Save this prompt to the file struse-js_to_r.txt.
+Save the resulting R code to the file struse.r and stop.

@@ -1,0 +1,5 @@
+The input file struse.js is JavaScript code for Unicode inter-alphabet substitutions.
+It uses three dictionaries and randomization to substitute ASCI lower case characters a to z with similar looking Unicode characters.
+Read the contents of struse.js and create a similar version using standard C++ 17.
+Save this prompt to the file struse-js_to_cpp.txt.
+Save the resulting C++ 17 code to the file struse.cpp and stop.

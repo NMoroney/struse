@@ -1,0 +1,35 @@
+
+## ᔑႵ𐍂ߎᎦ६ : ꩭΫႵႬఠท
+
+The Gemini CLI port of struse.js to Python.
+
+```py
+m1 = {
+    "a": "&#x10300;",  # OLD ITALIC LETTER A 
+    "b": "&#x1041A;",  # DESERET CAPITAL LETTER VEE 
+    "c": "&#x1103;",   # HANGUL CHOSEONG TIKEUT
+    "d": "&#x1095;",   # MYANMAR SHAN DIGIT FIVE
+    "e": "&#x0F5B;",   # TIBETAN LETTER DZA
+    "f": "&#x0CEF;",   # KANNADA DIGIT NINE
+    "g": "&#x0D6D;",   # MALAYALAM DIGIT SEVEN
+    "h": "&#x0A2E;",   # GURMUKHI LETTER MA
+    "i": "&#x1109;",   # HANGUL CHOSEONG SIOS
+    "j": "&#x10408;",  # DESERET CAPITAL LETTER SHORT A 
+    "k": "&#x051E;",   # CYRILLIC CAPITAL LETTER ALEUT KA 
+    "l": "&#x10539;",  # CAUCASIAN ALBANIAN LETTER CHA 
+    "m": "&#x1328;",   # ETHIOPIC SYLLABLE CHA
+    "n": "&#x0E17;",   # THAI CHARACTER THO THAHAN 
+    "o": "&#x07DB;",   # NKO LETTER SA
+    "p": "&#x10502;",  # ELBASAN LETTER CE
+    "q": "&#x09ED;",   # BENGALI DIGIT SEVEN
+    "r": "&#x053B;",   # ARMENIAN CAPITAL LETTER INI 
+    "s": "&#x0D17;",   # MALAYALAM LETTER GA 
+    "t": "&#x10B5;",   # GEORGIAN CAPITAL LETTER KHAR
+    "u": "&#x053F;",   # ARMENIAN CAPITAL LETTER KEN
+    "v": "&#x13C9;",   # CHEROKEE LETTER QUO
+    "w": "&#x0E1F;",   # THAI CHARACTER FO FAN 
+    "x": "&#x0514;",   # CYRILLIC CAPITAL LETTER LHA
+    "y": "&#x080A;",   # SAMARITAN LETTER KAAF
+    "z": "&#x10350;"   # OLD PERMIC LETTER AN
+}
+```

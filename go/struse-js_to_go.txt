@@ -1,0 +1,4 @@
+The input file struse.js is JavaScript code for Unicode inter-alphabet substitutions.
+It uses three dictionaries and randomization to substitute ASCI lower case characters a to z with similar looking Unicode characters.
+Read the contents of struse.js and create a similar version using the standard Go programming language.
+Save the resulting Go code to the file struse.go and stop.

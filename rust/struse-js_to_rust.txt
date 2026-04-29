@@ -1,0 +1,5 @@
+The input file struse.js is JavaScript code for Unicode inter-alphabet substitutions.
+It uses three dictionaries and randomization to substitute ASCI lower case characters a to z with similar looking Unicode characters.
+Read the contents of struse.js and create a similar version using the standard Rust programming language.
+Save this prompt to the file struse-js_to_rust.txt.
+Save the resulting Rust code to the file struse.rs and stop.

@@ -1,0 +1,20 @@
+    
+  Interaction Summary  
+  Tool Calls:                 3 ( ✓ 3 x 0 )
+  Success Rate:               100.0%   
+  User Agreement:             100.0% (3 reviewed) 
+  Code Changes:               +78 -0  
+      
+  Performance        
+  Wall Time:                  1m 43s   
+  Agent Active:               1m 28s    
+    » API Time:               1m 22s (93.0%) 
+    » Tool Time:              6.2s (7.0%) 
+       
+  Model                   Reqs   Input Tokens   Cache Reads  Output Tokens  
+  ────────────────────────────────────────────────────────────────────────  
+  gemini-2.5-flash-lite      1            857             0            103  
+  gemini-3-flash-preview     4         19,584        33,860          1,370 
+   
+  Savings Highlight: 33,860 (62.4%) of input tokens were served from the cache, reducing costs. 
+       
