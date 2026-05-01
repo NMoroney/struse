@@ -39,7 +39,7 @@ The Gemini CLI prompt :
 ```
 The input file struse.js is code JavaScript for Unicode inter-alphabet substitutions.
 It uses three dictionaries and randomization to substitute ASCI lower case characters a to z with similar looking Unicode characters.
-Read the contents of trust.js and create a similar version using standard Python.
+Read the contents of struse.js and create a similar version using standard Python.
 Save this prompt to the file struse-js_to_py.txt.
 Save the resulting python code to the file struse.py and stop.
 ```
