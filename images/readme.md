@@ -3,5 +3,12 @@
 
 Example images for the repo.
 
-<img src="2604-struse_rhymes_with_juice-01.jpg" width=400px>
+---
+⠧ටഗႵ  𐎂ኬ  †Ի𐌀ኬᎦ𝓛ᵰ𝍦ᄉఠท
+
+<img src="2604-struse_translation-01.jpg">
+
+<img src="2604-struse_translation-02.jpg">
+
+ꪜ𐎂ᵰ  𐔹ᜃກ₭६𝔇-𐎂ກ
 
